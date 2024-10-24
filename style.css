@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #eef3ec;
+  }
+
+  .navbar-brand, .nav-link {
+    color: #080101;
+  }
+
+  .nav-link:hover {
+    color: #080808 ;
+  }
+
+  /* Section background colors */
+  #about {
+    background-color: rgb(6, 211, 33);
+  }
+
+  #projects {
+    background-color: #e9efe9;
+  }
+
+  #contact {
+    background-color: rgb(6, 211, 33);
+  }
+
+  /* Card hover effect */
+  .card:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+  }
+
+  /* Footer styling */
+  footer {
+    background-color: #404346;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+  }
